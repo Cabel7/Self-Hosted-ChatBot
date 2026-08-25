@@ -1,0 +1,22 @@
+<b>How to Deploy:</b>
+1. Download the repository with git clone
+2. Open terminal terminal and direct it to the repository
+3. run "streamlit run app.py".
+
+
+<b>Deploy your chatbot model:<b>
+-> Setup ngrok account.
+   1. get auth token from ngrok
+   2. paste the auth token in ipynb file in place of <authtoken>
+-> Depoy model on private server or cloud.
+   1. Select your best model from huggingface.
+   2. Paste url of model like this in ipynb file at last
+      hf.co/<username>/<repository>:<quantization>  example: hf.co/DavidAU/Gemma-The-Writer-N-Restless-Quill-10B-Uncensored-GGUF:Q5_K_M
+
+-> Run the .ipynb file on google colab or any gpu server.
+-> copy api URL from log or ngrok website
+-> Open chat bot app and paste model name eg. "hf.co/DavidAU/Gemma-The-Writer-N-Restless-Quill-10B-Uncensored-GGUF:Q5_K_M and press enter". Then paste ngrok url in app eg. "https://b675-34-143-222-18.ngrok-free.app".
+
+
+![Uploading Screenshot 2026-08-25 100914.png…]()
+
