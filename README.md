@@ -1,10 +1,10 @@
 <b>How to Deploy:</b>
 1. Download the repository with git clone
 2. Open terminal terminal and direct it to the repository
-3. run "streamlit run app.py".
+3. run "streamlit run app.py". if not streamlit not installed run "pip install streamlit"
 
 
-<b>Deploy your chatbot model:<b>
+<b>Deploy your chatbot model:<b><br>
 -> Setup ngrok account.
    1. get auth token from ngrok
    2. paste the auth token in ipynb file in place of <authtoken>
