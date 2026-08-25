@@ -18,5 +18,6 @@
 -> Open chat bot app and paste model name eg. "hf.co/DavidAU/Gemma-The-Writer-N-Restless-Quill-10B-Uncensored-GGUF:Q5_K_M and press enter". Then paste ngrok url in app eg. "https://b675-34-143-222-18.ngrok-free.app".
 
 
-![Uploading Screenshot 2026-08-25 100914.png…]()
+<img width="1913" height="867" alt="Screenshot 2026-08-25 100914" src="https://github.com/user-attachments/assets/6f4e456d-1107-4100-8b29-81eb8d3b69bb" />
+
 
