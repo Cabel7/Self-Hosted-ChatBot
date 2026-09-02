@@ -12,7 +12,7 @@
 -> Depoy model on private server or cloud. <br>
    1. Select your best model from huggingface. <br>
    2. Paste url of model like this in ipynb file at last
-      hf.co/<username>/<repository>:<quantization>  example: hf.co/DavidAU/Gemma-The-Writer-N-Restless-Quill-10B-Uncensored-GGUF:Q5_K_M
+      "hf.co/username/repository-name:quantization-value"  example: hf.co/DavidAU/Gemma-The-Writer-N-Restless-Quill-10B-Uncensored-GGUF:Q5_K_M
 <br>
 
 -> Run the .ipynb file on google colab or any gpu server. <br>
